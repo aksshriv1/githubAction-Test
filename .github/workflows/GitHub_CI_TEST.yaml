@@ -2,7 +2,7 @@ name: Actions Name
 
 on:
   push:
-    branches: [ DTS-24498_GitHubActions ]
+    branches: [ main ]
 
 jobs:
   build:
