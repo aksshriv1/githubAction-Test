@@ -14,7 +14,7 @@ jobs:
       
     - name: Read this message
       run: echo "Hello ${{ github.actor }} you are beautiful"
-  deploy:
+  deployment:
     runs-on: ubuntu-latest
 
     steps:
